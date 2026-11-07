@@ -1,5 +1,9 @@
 # Винный помощник
 
+Приложение: https://dfvv5rxt7mptztxltpg9kr.streamlit.app/
+
+Код: https://github.com/0kskiy/ml_hse_2026/tree/my-work/homework/hw_3/wine_app
+
 Приложение для HW3. Используется уже обученный пайплайн `StandardScaler` →
 `LogisticRegression(class_weight='balanced')`, порог по умолчанию — 0.5.
 Класс 1 — хорошее вино с исходной оценкой не ниже 7. Внутри приложения обучения нет.
